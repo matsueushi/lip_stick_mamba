@@ -5,5 +5,5 @@
 で紹介されているScottish lip cancer dataのモデリングをMamba.jlでやってみる
 
 
-Jupyter Notebookへのリンク:
-[car_model.ipynb](car_model.ipynb)
+nbviewerへのリンク:
+[car_model.ipynb](https://nbviewer.jupyter.org/github/matsueushi/lip_stick_mamba/blob/master/car_model.ipynb)
